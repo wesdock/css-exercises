@@ -1,0 +1,19 @@
+.feminine {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#big-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.feminine.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
